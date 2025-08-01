@@ -28,7 +28,7 @@ Um jogo da memória divertido e interativo com tema de gatinhos, desenvolvido pa
 3. Divirta-se jogando!
 
 ### Opção 2: Executar Online
-Acesse o jogo diretamente pelo GitHub Pages: [Em breve]
+🎮 **[JOGAR AGORA](https://pimenta-select.github.io/jogo-do-gatinho-no-hacktown2025/)** - Acesse o jogo diretamente pelo GitHub Pages!
 
 ## 🛠️ Tecnologias Utilizadas
 
