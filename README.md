@@ -1,6 +1,18 @@
-# 🐱 Jogo da Memória - Gatinhos
+# 🐱 Jogo da Memória - Gatinhos v2.0
 
 Um jogo da memória divertido e interativo com tema de gatinhos, desenvolvido para o HackTown 2025!
+
+## 🆕 NOVIDADES DA VERSÃO 2.0
+
+### ✨ Novas Funcionalidades
+- **4 Níveis de Dificuldade**: Fácil (3x2), Médio (4x4), Difícil (5x4), Expert (6x4)
+- **Sistema de Dicas**: 3 dicas por partida para ajudar quando precisar
+- **Função Pausar**: Pause o jogo a qualquer momento
+- **Sistema de Combo**: Ganhe pontos extras por acertos consecutivos
+- **Sistema de Pontuação**: Pontuação baseada em tempo, movimentos e combos
+- **Avaliação por Estrelas**: De 1 a 3 estrelas baseado na performance
+- **Progressão de Níveis**: Avance automaticamente para o próximo nível
+- **Interface Melhorada**: Design mais moderno e responsivo
 
 ## 🎮 Como Jogar
 
@@ -28,7 +40,9 @@ Um jogo da memória divertido e interativo com tema de gatinhos, desenvolvido pa
 3. Divirta-se jogando!
 
 ### Opção 2: Executar Online
-🎮 **[JOGAR AGORA](https://pimenta-select.github.io/jogo-do-gatinho-no-hacktown2025/)** - Acesse o jogo diretamente pelo GitHub Pages!
+🎮 **[JOGAR VERSÃO 2.0](https://pimenta-select.github.io/jogo-do-gatinho-no-hacktown2025/jogo-memoria-gatinhos-v2.html)** - Nova versão com mais funcionalidades!
+
+🎮 **[JOGAR VERSÃO 1.0](https://pimenta-select.github.io/jogo-do-gatinho-no-hacktown2025/)** - Versão clássica original
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -101,7 +115,11 @@ Desafie seus amigos e veja quem consegue:
 
 ## 📝 Ideias para Futuras Melhorias
 
-- [ ] Sistema de níveis (fácil, médio, difícil)
+- [x] Sistema de níveis (fácil, médio, difícil, expert)
+- [x] Sistema de dicas
+- [x] Função pausar
+- [x] Sistema de pontuação e combos
+- [x] Avaliação por estrelas
 - [ ] Mais temas além de gatinhos
 - [ ] Sistema de ranking online
 - [ ] Modo multiplayer
